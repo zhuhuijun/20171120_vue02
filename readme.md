@@ -27,3 +27,6 @@ cnpm install  css-loader --save-dev
 cnpm install babel-preset-stage-0 --save-dev
 
 ```
+```$xslt
+cnpm install stylus stylus-loader --save-dev 
+```
